@@ -1,0 +1,36 @@
+Arguments: 
+  /home/edson/.nvm/versions/node/v12.17.0/bin/node /home/edson/.nvm/versions/node/v12.17.0/bin/yarn init
+
+PATH: 
+  /home/edson/.nvm/versions/node/v12.17.0/bin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games
+
+Yarn version: 
+  1.22.4
+
+Node version: 
+  12.17.0
+
+Platform: 
+  linux x64
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (/home/edson/.nvm/versions/node/v12.17.0/lib/node_modules/yarn/lib/cli.js:137008:13)
+      at Interface.emit (events.js:315:20)
+      at Interface._ttyWrite (readline.js:866:16)
+      at ReadStream.onkeypress (readline.js:205:10)
+      at ReadStream.emit (events.js:315:20)
+      at emitKeys (internal/readline/utils.js:335:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (readline.js:1133:36)
+      at ReadStream.emit (events.js:315:20)
+      at addChunk (_stream_readable.js:295:12)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
