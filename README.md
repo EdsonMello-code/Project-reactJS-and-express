@@ -1,7 +1,7 @@
 # Aplication with reactJS, express and mongodb 
 
 ## Final result: 
-![](/assets/previw.gif) 
+![](/assets/previw2.gif) 
  
 
 ## Links of librarys, frameworks and tecnology useds:
@@ -45,7 +45,7 @@
       Bonus:
   [How install mongodb with docker](https://medium.com/dockerbr/mongodb-no-docker-dd3b72c7efb7)  
   #### Run backend  
-      1. git clone repository
+      1. git clone https://github.com/EdsonMello-code/Project-reactJS-and-express.git
       2. cd /web/server
       3. npm install express mongoose require-dir nodemon cors  mongoose-paginate 
       4. npm run dev
