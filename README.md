@@ -42,16 +42,16 @@
         sudo sytemctl enable docker
       8. Then check the service status:
         sudo systemctl status docker
-      Bonus:
-  [How install mongodb with docker](https://medium.com/dockerbr/mongodb-no-docker-dd3b72c7efb7)  
+  >Bonus:
+    >[How install mongodb with docker](https://medium.com/dockerbr/mongodb-no-docker-dd3b72c7efb7)  
   #### Run backend  
       1. git clone https://github.com/EdsonMello-code/Project-reactJS-and-express.git
-      2. cd /web/server
+      2. cd /Project-reactJS-and-express-master/server
       3. npm install express mongoose require-dir nodemon cors  mongoose-paginate 
       4. npm run dev
   #### Run frontend
       1. git clone repository
-      2. cd /web/huntweb
+      2. cd /Project-reactJS-and-express-master/huntweb
       3. To Install the create-react-app:
   [create-react-app](https://reactjs.org/docs/create-a-new-react-app.html)
 
