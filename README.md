@@ -21,9 +21,9 @@
   - [Mongodb](https://www.mongodb.com/)
   - [NVM](https://www.hostinger.com.br/tutoriais/instalar-node-js-ubuntu/)
   ## How to run
-    ### Debian and derivatives 
-    ### backend
-    #### To install node using NVM
+  ### Debian and derivatives 
+  ### backend
+  #### To install node using NVM
       1. sudo apt install wget
       2. wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.34.0/install.sh | bash
       3. source ~/.profile
