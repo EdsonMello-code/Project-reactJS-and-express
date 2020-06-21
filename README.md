@@ -81,8 +81,11 @@
   #### Run frontend
 
       1. git clone repository
-      2. cd /Project-reactJS-and-express-master/huntweb
-      3. To Install the create-react-app:
+      2. cd ./Project-reactJS-and-express-master/huntweb
+      3. yarn start 
+      
+      To run app react:
+  
   [create-react-app](https://reactjs.org/docs/create-a-new-react-app.html)
 
       4. npm install react-router-dom axios
