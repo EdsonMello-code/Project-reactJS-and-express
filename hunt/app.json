@@ -1,0 +1,17 @@
+{
+  "name": "react-native1",
+  "displayName": "react-native1",
+  "expo": {
+    "name": "react-native1",
+    "slug": "expo-template-bare",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
