@@ -1,0 +1,13 @@
+#details {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 800px;
+  margin: 0 auto;
+  padding: 30px;
+}
+
+.items {
+  padding: 20px;
+}

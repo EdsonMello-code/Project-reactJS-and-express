@@ -3,7 +3,7 @@ import React from 'react'
 import { BrowserRouter, Switch, Route } from 'react-router-dom'
 
 import Main from './pages/Main'
-import Products from './pages/products'
+import Products from './pages/Products'
 
 // To create routes 
 const Routes = () => (
